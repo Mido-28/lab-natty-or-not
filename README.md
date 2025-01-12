@@ -23,17 +23,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 Texto na perspectiva de Didi Mocó para 2025.
 ## 📒 Descrição
-Texto criado a partir de IA na perspctiva de Didi Mocó trazendo mensagem de felicitações para o novo ano de 2025, tendo em vista uma sociedade mais igualitária. Uma mensagem queressalta o respeito e a valorização das singularidades.
+Texto criado a partir de IA na perspctiva de Didi Mocó trazendo mensagem de felicitações para o novo ano de 2025, tendo em vista uma sociedade mais igualitária. Uma mensagem que ressalta o respeito e a valorização das singularidades.
 
 
-## 🤖 Tecnologias Utilizadas
+## 🤖 Tecnologias utilizadas:
 Chatgpt.
 
 ## 🧐 Processo de Criação
 Foi utilizdo o chatgpt na versão em português e foi feito um pedido nos seguintes moldes: uma fala sobre o mundo ideal mais inclusivo no futuro , que acolha as diferenças, como se fosse o Didi Mocó falando no Fantástico dando felicitações para o ano de 2025.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto.
+Apresente os resultados do seu projeto:
+
 Olá, minha gente! Aqui é o Didi Mocó, e eu tô aqui hoje pra dar um alô especial e desejar um Feliz Ano Novo de 2025 pra todo mundo! Olha, eu tô tão animado que até parece que eu tomei um banho de água de coco! Vamos juntos imaginar um futuro mais bonito, mais inclusivo e que acolha as diferenças, porque é disso que a gente precisa, né?
 
 Primeiro, vamos falar sobre a educação! Em 2025, as escolas vão ser verdadeiros lares de aprendizado, onde cada criança, independente de suas habilidades ou origens, vai se sentir acolhida. Imagina só! Professores preparados, com muito amor no coração, prontos pra ajudar cada aluno a brilhar do seu jeito. E os colegas? Ah, esses vão aprender desde cedo a respeitar e valorizar as diferenças, porque cada um é uma estrela única nesse céu maravilhoso que é a nossa sociedade!
