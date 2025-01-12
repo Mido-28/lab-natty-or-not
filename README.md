@@ -30,7 +30,7 @@ Texto criado a partir de IA na perspctiva de Didi Mocó trazendo mensagem de fel
 Chatgpt.
 
 ## 🧐 Processo de Criação
-Foi utilizdo o chatgpt na versão em português e foi feito um pedido nos seguintes moldes: uma fala sobre o mundo ideal mais inclusivo no futuro , que acolha as diferenças, como se fosse o Didi Mocó falando no Fantástico dando felicitações para o ano de 2025.
+Foi utilizado o chatgpt na versão em português e foi feito um pedido nos seguintes moldes: uma fala sobre o mundo ideal mais inclusivo no futuro , que acolha as diferenças, como se fosse o Didi Mocó falando no Fantástico dando felicitações para o ano de 2025.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto:
